@@ -18,3 +18,6 @@
 
 ![GroqShell](https://img.shields.io/badge/GroqShell-004d00?style=flat&colorA=001a00&colorB=004d00&logoColor=white&labelColor=001a00)
 
+---
+
+![GroqShell](https://img.shields.io/badge/GroqShell-004d00?style=for-the-badge&colorA=003300&colorB=00cc00&logoColor=white&labelColor=003300)
